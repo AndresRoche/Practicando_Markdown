@@ -58,7 +58,7 @@ export const getLastesBy = async ({id} : {id : string}) => {
 | cols      |saas|sadsd |
 |xd | xd | xs|
 
-![visucla estudio lof](https://images7.memedroid.com/images/UPLOADED913/659ca09a22c12.webp)
+![visucla estudio lof](meme.webp)
 
 
 <!-- GITHUB MARKDOWN -->
